@@ -4,7 +4,7 @@
 - 💡 Using code to solve real-world problems.
 - 🌱 Continuous learning.
 - 🇳🇴 Living in Oslo, Norway.
-- 🗣 Fluent in Italian, Spanish, English, Norwegian.
+- 🗣 Italian, Spanish, English, Norwegian.
 
 ## Languages & Tools:
 
