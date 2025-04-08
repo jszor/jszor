@@ -1,10 +1,9 @@
 ## Hi, I'm Juan 👋🏼
 
-- 👨🏻‍💻 Aspiring full-stack dev.
-- 💡 Using code to solve real-world problems.
+- 👨🏻‍💻 Full-stack dev.
 - 🌱 Continuous learning.
 - 🇳🇴 Living in Oslo, Norway.
-- 🗣 IT, ES, EN, NO.
+- ℹ️ EN, ES, IT, NO.
 
 ## Languages & Tools:
 
