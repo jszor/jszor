@@ -3,7 +3,6 @@
 - 👨🏻‍💻 Full-stack dev.
 - 🌱 Continuous learning.
 - 🇳🇴 Living in Oslo, Norway.
-- ℹ️ EN, ES, IT, NO.
 
 ## Languages & Tools:
 
