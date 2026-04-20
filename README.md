@@ -1,9 +1,5 @@
 ## Hi, I'm Juan 👋🏼
 
-- 👨🏻‍💻 Full-stack dev.
-- 🌱 Continuous learning.
-- 🇳🇴 Living in Oslo, Norway.
-
 ## Languages & Tools:
 
 <img align="left" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="max-width: 100%;">
